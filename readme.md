@@ -2,4 +2,4 @@ Hello world
 
 Je rajoutes quelques lignes
 
-et voilà !
+et voilà ! C'est réglé
